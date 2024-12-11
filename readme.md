@@ -1,4 +1,4 @@
-# React Library Management
+# Library Management System
 
 This project is a full-stack web application designed to manage a library's inventory of books. It allows users to browse, borrow, and return books, and administrators to manage the library's collection and users. The project is built using React for the frontend and Node.js with Express for the backend. MongoDB is used as the database, and Firebase handles authentication.
 
@@ -41,7 +41,7 @@ Located in the `backend` directory, this part of the project is built with Node.
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/dipto-kainin/react-library-management
+    git clone https://github.com/Nikhil-singh955/Library-Management-System.git
     ```
 
 2. Install dependencies for both frontend and backend:
